@@ -1,3 +1,7 @@
 Hi My name is Zhu.
 
+<<<<<<< HEAD
 i like blue
+=======
+i like coffee.
+>>>>>>> pratice
